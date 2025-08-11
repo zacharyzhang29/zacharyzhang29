@@ -10,6 +10,6 @@
   - [Active Directory: Deploying Active Directory](https://github.com/zacharyzhang29/ad-deployment-azure)
   - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kevinorellana01/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/zacharyzhang29/osticket-prep-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/zacharyzhang29/osticket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/zacharyzhang29/osticket-lifecycle)
