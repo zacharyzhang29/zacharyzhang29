@@ -11,5 +11,5 @@
   - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kevinorellana01/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/kevinorellana01/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/zacharyzhang29/osticket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/zacharyzhang29/osticket-lifecycle)
