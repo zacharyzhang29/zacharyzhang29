@@ -6,7 +6,7 @@
   - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/zacharyzhang29/azure-setup)
   - [Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/zacharyzhang29/azure-network)
 - <b>Active Directory</b>
-  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
+  - [Active Directory: Preparing AD Infrastructure in Azure]()
   - [Active Directory: Deploying Active Directory](https://github.com/zacharyzhang29/ad-deployment-azure)
   - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
 - <b>osTicket (Help Desk Ticketing System)</b>
