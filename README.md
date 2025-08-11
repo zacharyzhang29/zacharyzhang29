@@ -7,7 +7,7 @@
   - [Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/zacharyzhang29/azure-network)
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
-  - [Active Directory: Deploying Active Directory](https://github.com/kevinorellana01/deploying-ad)
+  - [Active Directory: Deploying Active Directory](https://github.com/zacharyzhang29/ad-deployment-azure)
   - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kevinorellana01/osticket-prereqs)
