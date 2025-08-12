@@ -12,4 +12,4 @@
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure]()
   - [Active Directory: Deploying Active Directory](https://github.com/zacharyzhang29/ad-deployment-azure)
-  - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
+  - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/zacharyzhang29/ad-account)
